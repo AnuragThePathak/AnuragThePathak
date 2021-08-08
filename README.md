@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <p>
 	
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=AnuragThePathak&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></br>
+  <img width="52" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak" />
 </p>
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak) -->
