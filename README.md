@@ -43,9 +43,10 @@ Here are some ideas to get you started:
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   </p>
  
+ <p>
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AnuragThePathak&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak)
  
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&locale=en&layout=compact" alt="AnuragThePathak" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&locale=en&layout=compact" alt="AnuragThePathak" /></p>
