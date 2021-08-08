@@ -44,5 +44,11 @@ Here are some ideas to get you started:
   </p>
  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AnuragThePathak&show_icons=true&locale=en" alt="AnuragThePathak" />
-  &nbsp<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&locale=en&layout=compact" alt="AnuragThePathak" /></p>
+
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnuragThePathak&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragThePathak&theme=tokyonight" />
+</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak)
