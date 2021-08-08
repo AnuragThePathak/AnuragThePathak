@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnuragThePathak&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&theme=tokyonight" />
 </p>
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak) -->
