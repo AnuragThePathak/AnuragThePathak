@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a width=90% href="https://isocpp.org/" target="_blank"> <img src="images/cpp.png" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-	<a> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40"/> </a>
+  <a href="https://isocpp.org/" target="_blank"> <img src="images/cpp.png" alt="c++" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="images/flutter_animated.gif" alt="flutter" height="40"/> </a>
+  <a href="https://www.java.com/en/" target="_blank"> <img src="images/java.png" alt="java" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="images/c.png" alt="c" height="40"/> </a>
+	<a> <img src="images/html.png" alt="html" height="40"/> </a>
   </p>
  
 
