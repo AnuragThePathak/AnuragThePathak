@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a width=90% href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a width=90% href="https://isocpp.org/" target="_blank"> <img src="images/cpp.png" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -51,6 +51,5 @@ Here are some ideas to get you started:
 	
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=AnuragThePathak&show_icons=true&theme=tokyonight" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak" />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak" /> -->
 </p>
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak) -->
