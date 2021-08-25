@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### About Me 🚀
 🎓 I’m an programming enthusiast pursuing B.Tech. in NIT Silchar in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Flutter, Android and Web Development & I enjoy learning new things. </br>
-🌱 I’m currently learning Flutter, Java and Data Structures and Algorithms. </br>
+🌱 I’m currently learning Flutter, Java, Kotlin and Data Structures and Algorithms. </br>
 
 <h3 align="left">Languages and Tools:</h3>
 
