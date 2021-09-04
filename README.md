@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank"> <img src="images/cpp.png" alt="c++" height="40"/> </a>
+  <a href="https://developer.android.com/" target="_blank"> <img src="images/android_logo.gif" alt="android" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank"> <img src="images/flutter_animated.gif" alt="flutter" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank"> <img src="images/java.png" alt="java" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="images/c.png" alt="c" height="40"/> </a>
