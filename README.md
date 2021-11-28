@@ -18,6 +18,9 @@
 🌱 I’m currently learning Web Development and DevOps.<br>
 🙋 I'm regularly active on Twitter, you may connect there if interested.<br>
 
+### Experience
+- Maintainer of [this repository](https://github.com/AnuragThePathak/News-Feed-App) in Hacktoberfest 2021.
+
 ### Languages:
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
