@@ -1,50 +1,33 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anurag
 
-<!--
-**AnuragThePathak/AnuragThePathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://www.linkedin.com/in/anuragthepathak/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
 <a href="https://twitter.com/AnuragThePathak">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="40px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />
+</a>
+<a href="https://www.linkedin.com/in/anuragthepathak/">
+  <img align="left" width="40px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"  />
 </a>
 <a href="mailto:anuragpathak911@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="48px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
 </a>
-<!-- <a href="https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> -->
 
 <br />
 
 ### About Me 🚀
-🎓 I’m an programming enthusiast pursuing B.Tech. in NIT Silchar in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Android, Web Development, DevOps & I enjoy learning new things. </br>
-🌱 I’m currently learning Android Development, Java, Kotlin and Data Structures and Algorithms. </br>
+🎓 I’m an open-source enthusiast pursuing B.Tech. in NIT Silchar in Computer Science & Engineering.
+👨‍💻 I am passionate about Android, Web Development, DevOps & I enjoy learning new things.<br>
+🌱 I’m currently learning Web Development and DevOps.<br>
+🙋 I'm regularly active on Twitter, you may connect there if interested.<br>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank"> <img src="images/cpp.png" alt="c++" height="40"/> </a>
-  <a href="https://developer.android.com/" target="_blank"> <img src="images/android.png" alt="android" height="40"/> </a>
-  <a href="https://www.java.com/en/" target="_blank"> <img src="images/java.png" alt="java" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="images/c.png" alt="c" height="40"/> </a>
-	<a> <img src="images/html.png" alt="html" height="40"/> </a>
-  </p>
- 
-
+### Libraries and Frameworks:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📈 Stats
 <p>
