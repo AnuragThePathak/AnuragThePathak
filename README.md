@@ -13,7 +13,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an open-source enthusiast pursuing B.Tech. in NIT Silchar in Computer Science & Engineering.
+🎓 I’m an open-source enthusiast pursuing B.Tech. in NIT Silchar in Computer Science & Engineering.</br>
 👨‍💻 I am passionate about Android, Web Development, DevOps & I enjoy learning new things.<br>
 🌱 I’m currently learning Web Development and DevOps.<br>
 🙋 I'm regularly active on Twitter, you may connect there if interested.<br>
