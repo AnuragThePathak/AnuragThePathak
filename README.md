@@ -16,7 +16,7 @@
 🎓 I’m an open-source enthusiast pursuing B.Tech. in NIT Silchar in Computer Science & Engineering(2024).</br>
 👨‍💻 I am passionate about Android, Web Development, DevOps & I enjoy learning new things.<br>
 🌱 I’m currently learning Web Development and DevOps.<br>
-🙋 I'm regularly active on Twitter, you may connect there if interested.<br>
+🙋‍♂️ I'm regularly active on Twitter, you may connect there if interested.<br>
 
 ### Experience
 - Maintainer of [this repository](https://github.com/AnuragThePathak/News-Feed-App) in Hacktoberfest 2021.
