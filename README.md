@@ -19,11 +19,6 @@
 🌱 I’m currently learning Web Development and DevOps.<br>
 🙋‍♂️ I'm regularly active on Twitter, you may connect there if interested.<br>
 
-### Experience
-
-- Maintainer of [this repository](https://github.com/AnuragThePathak/News-Feed-App) in Hacktoberfest 2021.
-- Member of Google Developer Student Club, NIT Silchar since August 2021.
-
 ### Languages:
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -50,6 +45,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
 ## 📈 Stats
 <p>
 	
@@ -57,3 +54,5 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=6" /></br>
 <!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak" /> -->
 </p>
+
+<!--START_SECTION:activity-->
