@@ -56,6 +56,6 @@
 <p>
 	
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=AnuragThePathak&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=6" /></br>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuragThePathak&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" /></br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak" />
 </p>
