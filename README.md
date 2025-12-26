@@ -16,6 +16,7 @@
 
 👨‍💻 I’m a software engineer who enjoys **designing clean, scalable systems** and expressing complexity through **simple, readable code**. <br>
 🎓 I graduated with a B.Tech in Computer Science & Engineering from **NIT Silchar (2024)**. <br>
+🙋‍♂️ I enjoy sharing what I learn along the way and helping others reason about systems more clearly. <br>
 
 I’m especially drawn to **Go and the cloud-native ecosystem**.  
 I enjoy thinking in terms of:
