@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/anuragthepathak/" target="_blank" rel="noopener noreferrer">
   <img align="left" width="40px" src="./images/linkedin.svg" />
 </a>
-<a href="mailto:anuragpathak911@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:contact@anuragthepathak.com" target="_blank" rel="noopener noreferrer">
   <img align="left" width="43px" src="./images/gmail.svg" />
 </a>
 
