@@ -35,7 +35,6 @@ I care deeply about **code clarity, maintainability, and scalability**, and I pr
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 
 **Cloud-Native & Tooling**: Also experience with cloud-native design patterns and CNCF projects.
