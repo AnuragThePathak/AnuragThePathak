@@ -31,18 +31,26 @@ I evaluate system design through the lens of:
 
 ### 🏆 Featured Architecture 
 
-**[Subscription Management Service](https://github.com/AnuragThePathak/subscription-management)**  
-A production-grade Go backend built to demonstrate clean architecture and resilient infrastructure.  
-* **Highlights:** Modular monolith design, fail-open Redis rate limiting, pre-poisoned database testing, and native OpenTelemetry distributed tracing across Asynq background workers.
+**[Subscription Management Service](https://github.com/AnuragThePathak/subscription-management)** A production-grade Go backend built to demonstrate strict domain boundaries and resilient infrastructure.  
+- **Observability & Tracing:** 100% instrumentation coverage (Metrics, Structured Logs, and Traces) across HTTP handlers, Redis, MongoDB, and Asynq. Features native W3C trace context propagation natively bridging the Queue-to-Worker event boundary.
+- **Adversarial Testing:** Defense-in-depth test suite utilizing Testcontainers, pre-poisoned database decoys, and mutation-preventing domain tests to mathematically verify queries.
+- **Resilience:** Implemented fail-open Redis rate limiting to prioritize core API availability during cache degradation.
+
+---
+
+### ✍️ Technical Writing
+
+I occasionally write about infrastructure and my open-source learnings.
+- [How I Passed the CKA Exam on My First Attempt](https://anuragpathak.hashnode.dev/how-i-passed-the-cka-exam-in-the-first-attempt)
+- [My LFX Mentorship Experience with OpenELB (CNCF)](https://dev.to/anuragpathak/my-lfx-mentorship-experience-with-openelb-4mhn)
 
 ---
 
 ### 🛠️ Primary Focus
 
-**Backend & Systems**: Clean architecture, domain-driven design, asynchronous queueing.
+**Backend & Systems**: Clean architecture, domain-driven design, explicit state machines.
 <br>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 **Observability & Data**: 
 <br>
@@ -62,15 +70,7 @@ A production-grade Go backend built to demonstrate clean architecture and resili
 
 ### 📌 Current Focus
 
-- Designing **fault-tolerant** microservices and robust, event-driven infrastructure.
-- Instrumenting W3C trace context propagation across asynchronous queues.
-- Writing scalable, hermetically tested code that holds up over time. 
-
----
-
-## 📈 Stats
-
-![AnuragThePathak's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AnuragThePathak&theme=default&chart=bars)
-![AnuragThePathak's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=AnuragThePathak&type=languages&theme=default&chart=bars)
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AnuragThePathak.AnuragThePathak" />
+- **Graceful Shutdown Topologies:** Architecting deterministic, reverse-order shutdown sequences (via Dependency Injection graphs like `uber-go/fx`) to resolve connection-draining race conditions during SIGTERM.
+- **Task Chaining & DLQs:** Decoupling domain mutations from external side-effects (e.g., separating billing logic from SMTP notifications) using Asynq task chaining and Dead Letter Queues.
+- **Caching Strategies:** Expanding Redis implementations strictly for database query offloading and read-heavy endpoint optimization.
+- **E2E Verification:** Expanding hermetic testing strategies into full End-to-End (E2E) request lifecycle verification.
