@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px" >, I'm Anurag
+### Hi there, I'm Anurag
 
 <a href="https://x.com/AnuragThePathak" target="_blank" rel="noopener noreferrer">
   <img align="left" width="40px" src="./images/x.svg" />
@@ -17,7 +17,7 @@
 👨‍💻 **Backend Engineer & Systems Thinker** <br>
 I build backend systems with a focus on predictability, explicit boundaries, and code that reads like it explains itself—simple by choice, not by limitation. 
 
-🎓 I graduated with a B.Tech in Computer Science & Engineering from **NIT Silchar (2024)** and previously contributed to the CNCF ecosystem as an LFX Mentee. <br>
+⚡ I cut my teeth in the cloud-native ecosystem contributing to the CNCF (Linux Foundation) as an LFX Mentee. <br>
 🙋‍♂️ I enjoy sharing what I learn along the way and helping others reason about distributed systems more clearly. 
 
 I'm a "forever Go" developer drawn to the **cloud-native ecosystem**.  
