@@ -32,7 +32,7 @@ I evaluate system design through the lens of:
 ### 🏆 Featured Architecture 
 
 **[Subscription Management Service](https://github.com/AnuragThePathak/subscription-management)** A production-grade Go backend built to demonstrate strict domain boundaries and resilient infrastructure.  
-- **Observability & Tracing:** 100% instrumentation coverage (Metrics, Structured Logs, and Traces) across HTTP handlers, Redis, MongoDB, and Asynq. Features native W3C trace context propagation natively bridging the Queue-to-Worker event boundary.
+- **Observability & Tracing:** End-to-end instrumentation (Metrics, Structured Logs, and Traces) across HTTP handlers, Redis, MongoDB, and Asynq. Features automatic trace-correlated slog logging and native W3C trace context propagation bridging the Queue-to-Worker event boundary.
 - **Adversarial Testing:** Defense-in-depth test suite utilizing Testcontainers, pre-poisoned database decoys, and mutation-preventing domain tests to mathematically verify queries.
 - **Resilience:** Implemented fail-open Redis rate limiting to prioritize core API availability during cache degradation.
 
