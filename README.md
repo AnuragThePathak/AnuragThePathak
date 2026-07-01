@@ -17,7 +17,7 @@
 👨‍💻 **Backend Engineer & Systems Thinker** <br>
 I build backend systems with a focus on predictability, explicit boundaries, and code that reads like it explains itself—simple by choice, not by limitation. 
 
-⚡ I cut my teeth in the cloud-native ecosystem contributing to the CNCF (Linux Foundation) as an LFX Mentee. <br>
+⚡ I actively build in the upstream cloud-native ecosystem, contributing core infrastructure features to Kubernetes-SIGs and CNCF projects. <br>
 🙋‍♂️ I enjoy sharing what I learn along the way and helping others reason about distributed systems more clearly. 
 
 I'm a "forever Go" developer drawn to the **cloud-native ecosystem**.  
@@ -70,6 +70,7 @@ I occasionally write about infrastructure and my open-source learnings.
 
 ### 📌 Current Focus
 
+- **Kubernetes Operator Patterns**: Exploring advanced controller-runtime mechanics, custom API schema validation, and fail-closed state reconciliation for highly distributed cloud infrastructure.
 - **Graceful Shutdown Topologies:** Architecting deterministic, reverse-order shutdown sequences (via Dependency Injection graphs like `uber-go/fx`) to resolve connection-draining race conditions during SIGTERM.
 - **Task Chaining & DLQs:** Decoupling domain mutations from external side-effects (e.g., separating billing logic from SMTP notifications) using Asynq task chaining and Dead Letter Queues.
 - **Caching Strategies:** Expanding Redis implementations strictly for database query offloading and read-heavy endpoint optimization.
