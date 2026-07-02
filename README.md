@@ -70,7 +70,7 @@ I occasionally write about infrastructure and my open-source learnings.
 
 ### 📌 Current Focus
 
-- **Kubernetes Operator Patterns**: Exploring advanced controller-runtime mechanics, custom API schema validation, and fail-closed state reconciliation for highly distributed cloud infrastructure.
+- **Kubernetes Operator Patterns**: Exploring advanced controller-runtime mechanics, indexing, and fail-closed state reconciliation for highly distributed cloud infrastructure.
 - **Graceful Shutdown Topologies:** Architecting deterministic, reverse-order shutdown sequences (via Dependency Injection graphs like `uber-go/fx`) to resolve connection-draining race conditions during SIGTERM.
 - **Task Chaining & DLQs:** Decoupling domain mutations from external side-effects (e.g., separating billing logic from SMTP notifications) using Asynq task chaining and Dead Letter Queues.
 - **Caching Strategies:** Expanding Redis implementations strictly for database query offloading and read-heavy endpoint optimization.
